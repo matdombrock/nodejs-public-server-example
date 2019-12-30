@@ -1,0 +1,14 @@
+{
+  "name": "public-server-example",
+  "version": "1.0.0",
+  "description": "Hosts static files with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Mathieu Dombrock",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
